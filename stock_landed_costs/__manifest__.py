@@ -7,7 +7,7 @@
     'category': 'Stock',
     'website': 'omolonlsn@gmail',
 	'depends': [
-        'stock_landed_cost',
+        'stock',
     ],
     'data': [
         'views/stock_landed_cost_views.xml',
